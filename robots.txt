@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ashun-kaede.github.io/AshunConsoleLab/sitemap.xml
+Sitemap: https://ashun-kaede.github.io/AshunConsoleLab.github.io/sitemap.xml
